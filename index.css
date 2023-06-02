@@ -34,10 +34,10 @@ a:hover {
 }
 
 [lang='en'] {
-    font-family: "SF Pro", Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
-[lang='zh-CN'] {
+[lang='zh-Hans-CN'] {
     font-family: 苹方-简, 微软雅黑, HarmonyOS, sans-serif;
 }
 
